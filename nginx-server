@@ -82,7 +82,7 @@ server {
 #
 	server_name a-bridgetoconnection.org;
 #
-	root /home/szeto/Public/A Bridge to Connection/public_side/program files;
+	root /mnt/sda1/nextcloud/;
 	index index.html;
 #
 	location / {
